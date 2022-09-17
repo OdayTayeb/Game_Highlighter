@@ -6,7 +6,7 @@ you can feed your video or stream to the system and it will summarize the given 
 
 it is very useful for the streamers who have a lot of long videos as the system can provide them an automatic summary instead of extracting the best moments manually (using video editors or something similar).
 
-The system can extract special moments from any kind of games but it is more accurate for the third person shooter games.
+The system can extract special moments from any kind of games but it is more accurate when it comes to third person shooter games.
 
 # The solution provided
 
