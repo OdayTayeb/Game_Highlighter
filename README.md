@@ -30,17 +30,15 @@ then pick from the sorted list of the frames as many frames as you need.
 
 our system scores 7.35 out of 10 depending on users ratings.
 
-# System UI examples
+# System UI
 
 ## user input
-![Uploading لقطة الشاشة 2022-09-18 005719.png…]()
-
+![لقطة الشاشة 2022-09-18 005719](https://user-images.githubusercontent.com/92798033/190877807-33e64130-12c7-4f4b-bf82-c26845a5508f.png)
 
 ## editing the extracted best memonts
 ![لقطة الشاشة 2022-09-18 005622](https://user-images.githubusercontent.com/92798033/190877763-692f50e5-8fb0-496f-9f83-57e0dd68bffd.png)
 
 
 ## the output video
-![Uploading لقطة الشاشة 2022-09-18 005647.png…]()
-
+![لقطة الشاشة 2022-09-18 005647](https://user-images.githubusercontent.com/92798033/190877838-aec49315-5db1-4413-814a-b3c52a2f6595.png)
 
